@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/api/">
+    <Project Path="api/Dockle.Api.csproj" />
+  </Folder>
+  <Folder Name="/web/">
+    <Project Path="web/Dockle.Web.csproj" />
+  </Folder>
+</Solution>
